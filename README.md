@@ -7,9 +7,9 @@ This is a simple simulation of Brownian motion using the Pygame library in Pytho
 3. Usage
 
 To run the simulation, simply execute the brownian_motion.py file using the following command in your terminal:
-
+```
 python3 main.py
-
+```python
 The particle will start moving on the screen and bouncing off the edges in a random direction.
 
 ### Note: 
